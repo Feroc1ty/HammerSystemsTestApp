@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HammerSystemsTestApp</string>
+    <string-array name="city">
+        <item>Москва</item>
+        <item>Королёв</item>
+        <item>Химки</item>
+        <item>Реутов</item>
+    </string-array>
+</resources>
